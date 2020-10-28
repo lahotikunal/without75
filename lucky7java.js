@@ -102,6 +102,9 @@ rules.addEventListener('click', function() {
   document.getElementById('rules').style.display = 'none';
 
 });
+next_game.addEventListener('click',function(){
+  {location.href = "https://lahotikunal.github.io/lucky-7/";}
+});
 //rules
 
 button.addEventListener('click',function()
